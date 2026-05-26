@@ -1,0 +1,6 @@
+{
+  "name": "Assignment Work Platform",
+  "description": "A premium landing page for home-based manuscript writing, online typing, and assignment services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
